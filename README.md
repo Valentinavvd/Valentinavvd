@@ -4,7 +4,7 @@
 
 ## VALENTINA VARGAS DElGADO
 <div align="center">
-<img src="foto.jpg" width="100%" style="border-radius:10px">
+<img src="foto.jpg" width="70%" style="border-radius:10px">
 </div>
 
 ### Estudiante de Ingeniería en Sistemas y Telecomunicaciones | Técnica en Auxiliar de Enfermería
