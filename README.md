@@ -39,8 +39,7 @@ Profesional proactiva con sólidas habilidades de **liderazgo**, **trabajo en eq
 -----
 
 ## Donde estudio
-
-![Universidad de Manizales](https://img.shields.io/badge/Universidad_de_Manizales-004B87?style=for-the-badge&logoColor=white)
+<img src="universidad.png" width="120px">
 
 -----
 
