@@ -4,6 +4,8 @@
 
 ## VALENTINA VARGAS DElGADO
 
+![Mi foto](foto.jpg)
+
 ### Estudiante de Ingeniería en Sistemas y Telecomunicaciones | Técnica en Auxiliar de Enfermería
 
 ### Manizales, Colombia
