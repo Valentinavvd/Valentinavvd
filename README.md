@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Bienvenido a mi espacio digital, donde la salud se fusiona con la tecnologia!
+# ¡Bienvenido a mi espacio digital, donde la salud se fusiona con la tecnología!
 
 ## VALENTINA VARGAS DElGADO
 <div align="center">
