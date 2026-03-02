@@ -3,9 +3,7 @@
 # ¡Bienvenido a mi espacio digital, donde la salud se fusiona con la tecnologia!
 
 ## VALENTINA VARGAS DElGADO
-
-![Mi foto](foto.jpg)
-
+<img src="foto.jpg" width="300px">
 ### Estudiante de Ingeniería en Sistemas y Telecomunicaciones | Técnica en Auxiliar de Enfermería
 
 ### Manizales, Colombia
